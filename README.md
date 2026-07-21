@@ -6,10 +6,11 @@ This is my first attempt, just to see if it'll work.  I have left off the expans
 
 The design includes:
 - Gateron low-profile keyswitches
-- Atari-compatible joystick interface
 - Dedicated cursor key cluster
+- Atari-compatible joystick interface
+- "FIRE" selectable between ZERO and SPACE keys
 - 32KB of RAM (three schemes selectable via vLA81)
-- 32KB of ROM (four switchable 8KB banks)
+- 32KB of ROM (four switchable 8KB banks, i.e. original BASIC, modernised BASIC, ASZMIC assembler, ZX81 FORTH)
 - 5V power in using a USB Type B connector (nice 'n' solid)
 - Baseband video output selectable between NTSC (USA) and PAL (UK)
 
