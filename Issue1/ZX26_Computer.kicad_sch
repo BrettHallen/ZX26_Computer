@@ -777,10 +777,10 @@
 			(embedded_fonts no)
 		)
 	)
-	(text_box "Specific Parts:\n- USB Type B: Same Sky UJ2-B-HR-G-TH\n- RCA Jack: Kobiconn 156-0099-E\n- 3.5mm Mono Jack: Same Sky SJ3-350820B"
+	(text_box "Specific Parts:\n- USB Type B: Same Sky UJ2-B-HR-G-TH\n- RCA Jack: Kobiconn 156-0099-E\n- 3.5mm Mono Jack: Same Sky SJ3-350820B\n- DE9 Plug: Amphenol L717SDE09PA4CH4FC309 (or similar)"
 		(exclude_from_sim no)
 		(at 35.56 119.38 0)
-		(size 52.07 11.43)
+		(size 64.77 12.1268)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
