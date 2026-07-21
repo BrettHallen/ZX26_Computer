@@ -11,7 +11,7 @@ The design includes:
 - 32KB of RAM (three schemes selectable via vLA81)
 - 32KB of ROM (four switchable 8KB banks)
 - 5V power in using a USB Type B connector (nice 'n' solid)
-- Baseband video output
+- Baseband video output selectable between NTSC (USA) and PAL (UK)
 
 ## vLA81
 Utilising [VRetro's modern ULA replacement](https://www.vretrodesign.com/products/vla81-zx81-ula-replacement) to simplify parts & design.<br>
