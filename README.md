@@ -5,6 +5,7 @@ I thought it might be interested to have a crack at designing a simple ZX81 clon
 This is my first attempt, just to see if it'll work.  I have left off the expansion connector for now.<br>
 
 The design includes:
+- Gateron low-profile keyswitches
 - Atari-compatible joystick interface
 - Dedicated cursor key cluster
 - 32KB of RAM (three schemes selectable via vLA81)
