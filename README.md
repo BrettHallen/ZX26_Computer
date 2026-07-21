@@ -24,6 +24,7 @@ Some specific parts (i.e. footprints) I've utilised are:
 - USB Type B: Same Sky UJ2-B-HR-G-TH
 - RCA Jack: Kobiconn 156-0099-E
 - 3.5mm Mono Jack: Same Sky SJ3-350820B
+- DE9 Plug: Amphenol L717SDE09PA4CH4FC309 (or similar)
 
 ## Useful Information
 - https://oldcomputer.info/8bit/zx81/ULA/ula.htm
