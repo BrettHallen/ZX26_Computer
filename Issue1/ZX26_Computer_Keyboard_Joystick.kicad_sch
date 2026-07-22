@@ -3057,6 +3057,12 @@
 		(uuid "65c80277-58e8-4a94-b0a0-85f76966e5f7")
 	)
 	(junction
+		(at 256.54 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "694659e8-811d-445a-b8ff-fe031eb9b0e1")
+	)
+	(junction
 		(at 44.45 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3195,6 +3201,12 @@
 		(uuid "ad2ecf69-e5f4-4229-b901-6e62e0710551")
 	)
 	(junction
+		(at 256.54 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b219c752-735f-4947-b201-554e3a828dc7")
+	)
+	(junction
 		(at 55.88 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3211,6 +3223,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bbbc0498-99b2-413d-8cbf-15539278ff4b")
+	)
+	(junction
+		(at 256.54 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c5deb6bf-46e8-4bfe-942b-794d5996571e")
 	)
 	(junction
 		(at 66.04 128.27)
@@ -3308,7 +3326,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 120.65) (xy 247.65 120.65)
+			(xy 256.54 120.65) (xy 247.65 120.65)
 		)
 		(stroke
 			(width 0)
@@ -3358,6 +3376,16 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 118.11) (xy 259.08 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b7636eb-3395-4cd3-8b72-25981768b0c5")
+	)
+	(wire
+		(pts
 			(xy 139.7 147.32) (xy 139.7 166.37)
 		)
 		(stroke
@@ -3375,6 +3403,16 @@
 			(type default)
 		)
 		(uuid "1264e23e-d975-4e17-845e-ba64fd724aed")
+	)
+	(wire
+		(pts
+			(xy 256.54 120.65) (xy 259.08 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13c5eb0a-bf99-4caf-90c0-433a461698fd")
 	)
 	(wire
 		(pts
@@ -3818,6 +3856,16 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 123.19) (xy 259.08 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5910b762-834c-4291-8c9c-f0863aadca55")
+	)
+	(wire
+		(pts
 			(xy 195.58 60.96) (xy 195.58 58.42)
 		)
 		(stroke
@@ -3828,7 +3876,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 140.97) (xy 259.08 140.97)
+			(xy 215.9 140.97) (xy 256.54 140.97)
 		)
 		(stroke
 			(width 0)
@@ -4168,7 +4216,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 140.97) (xy 259.08 123.19)
+			(xy 256.54 140.97) (xy 256.54 123.19)
 		)
 		(stroke
 			(width 0)
@@ -4698,7 +4746,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 118.11) (xy 259.08 118.11)
+			(xy 215.9 118.11) (xy 256.54 118.11)
 		)
 		(stroke
 			(width 0)
@@ -4887,7 +4935,7 @@
 		(uuid "6092ac06-2d87-4d10-80bc-21700ea706b9")
 	)
 	(label "FIRE_ZERO"
-		(at 259.08 118.11 180)
+		(at 256.54 118.11 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4897,7 +4945,7 @@
 		(uuid "67d1cbbb-95da-46db-a7ed-f90c84f5e8fc")
 	)
 	(label "FIRE_SPACE"
-		(at 259.08 123.19 180)
+		(at 256.54 123.19 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4907,7 +4955,7 @@
 		(uuid "6ef421ca-a68a-4ccb-b258-3e8e2601777f")
 	)
 	(label "FIRE"
-		(at 259.08 120.65 180)
+		(at 256.54 120.65 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10911,7 +10959,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 264.16 120.65 0)
+		(at 261.62 120.65 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10922,7 +10970,7 @@
 		(fields_autoplaced yes)
 		(uuid "bd5d0622-6f53-4aeb-bac3-f5b22ccafd25")
 		(property "Reference" "J3"
-			(at 266.7 119.3799 0)
+			(at 264.16 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10932,8 +10980,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SPACE/0"
-			(at 266.7 121.9199 0)
+		(property "Value" "FIRE MAPPING"
+			(at 264.16 121.9199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10944,7 +10992,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 264.16 120.65 0)
+			(at 261.62 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10955,7 +11003,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 264.16 120.65 0)
+			(at 261.62 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10966,7 +11014,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 264.16 120.65 0)
+			(at 261.62 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

@@ -8,7 +8,7 @@ C9,1,10nF,C_Disc_D3.8mm_W2.6mm_P2.50mm,,,,tht,Unpolarized capacitor,capacitor/TH
 "D1, D2, D3, D4, D5, D6, D7, D8",8,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal,,,,tht,Diode,diode/THT,D,1=K 2=A,,,,
 J1,1,USB POWER IN,UJ2BHRGTH,,UJ2-B-HR-G-TH,,tht,"Type B, USB 2.0, 480 Mbps, 5 Vdc, 1.5 A, Right Angle, Through Hole Mounting Style, Through Hole Contact Pin Type, Board Lock, 0.6 in Plating Thickness, Black Insulator, Pick & Place, USB Receptacle",,,,11.1,179-UJ2-B-HR-G-TH,https://www.mouser.co.uk/ProductDetail/Same-Sky/UJ2-B-HR-G-TH?qs=HoCaDK9Nz5cuzuu5C%2FN7nw%3D%3D,Same Sky
 J2,1,ATARI JOYSTICK,DSUB-9_Pins_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm,,,,tht,"9-pin D-SUB connector, pins (male), Mounting Hole",connector/D_sub,,,,,,
-J3,1,SPACE/0,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",connector/pin_header_socket,,,,,,
+J3,1,FIRE MAPPING,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",connector/pin_header_socket,,,,,,
 J4,1,VIDEO OUT,1560099E,,,,tht,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",,,,,,,
 J5,1,TAPE IN (EAR),SJ3350820BTR,,,,tht,"Audio Jack, 2 Poles (Mono / TS)",,,,,,,
 J6,1,TAPE OUT (MIC),SJ3350820BTR,,,,tht,"Audio Jack, 2 Poles (Mono / TS)",,,,,,,
