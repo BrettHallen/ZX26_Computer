@@ -8887,7 +8887,7 @@
 				)
 			)
 		)
-		(property "Value" "TAPE OUT"
+		(property "Value" "TAPE OUT (MIC)"
 			(at 30.734 64.516 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12359,7 +12359,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TAPE IN"
+		(property "Value" "TAPE IN (EAR)"
 			(at 53.34 112.3949 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -1757,6 +1757,26 @@
 		)
 		(uuid "eb1e74d6-685d-4a3a-b7f6-b345fb72893d")
 	)
+	(text_box "vLA81 SW3/SW4 RAM Settings\nMODE 0 (ON/OFF): 16KB (4000-7FFF) [STANDARD ZX81]\nMODE 1 (OFF/ON): 32KB (4000-BFFF) [UPPER 32KB HIRES]\nMODE 2 (OFF/ON): 32KB (2000-9FFF) [LOWER 32KB WRX HIRES]\nMODE 3  (ON/ON): 32KB (0000-7FFF) [SOFT CONFIG]"
+		(exclude_from_sim no)
+		(at 38.1 41.91 0)
+		(size 67.31 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "fe4a40d9-3fa8-4668-a4c9-d8a5adbc092f")
+	)
 	(junction
 		(at 168.91 110.49)
 		(diameter 0)
